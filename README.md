@@ -1,5 +1,7 @@
-# pixijs_mask_test
-Apply a blurred mask to the sprite with PixiJS.
+# Apply a blurred mask to the sprite with PixiJS.
+
+**DEMO**  
+[https://evofan.github.io/pixijs_mask_test/](https://evofan.github.io/pixijs_mask_test/)  
 
 reference  
 
